@@ -10,4 +10,4 @@ I am an incoming Sociology PhD student at University of Washington. I am interes
 
 Currently, I am supervised by Dr. Hsuan-Wei Lee in the Institute of Sociology at Academia Sinica, Taiwan.
 
-You can find my CV here:[Man-Lin's Curriculum Vitae](../assets/manlin_CV.pdf).
+You can find my CV here: [Man-Lin's Curriculum Vitae](../assets/manlin_CV.pdf).
